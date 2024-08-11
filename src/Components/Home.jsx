@@ -31,7 +31,7 @@ function Home() {
                         </TextLoop>
                         <SubTitle>{Bio.description}</SubTitle>
                         <button className='bg-slate-400 self-center h-12 w-24 font-semibold  text-2xl rounded-lg hover:bg-blue-300 hover:scale-105 md:w-48'
-                         ><a href="https://drive.google.com/file/d/1f7mQ3ClMwu7rk5MNAxtXzgeVlfPHOi0T/view?usp=sharing" download> Check Resume</a></button>
+                         ><a href="https://drive.google.com/file/d/1qOUvd3jlwUF8d-YOwBS_NOldmG-eTbFm/view?usp=sharing" download> Check Resume</a></button>
                     </HeroLeftContainer>
 
                     <HeroRightContainer id="Right">

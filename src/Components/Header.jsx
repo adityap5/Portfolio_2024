@@ -3,9 +3,9 @@ import { NavLink } from 'react-router-dom'
 function Header() {
   return (
     <>
-    <div className=" text-black hidden justify-between align-center px-4  mx-32 my-12 md:flex">
+    <div className=" text-black justify-between align-center  p-4 flex md:p-10 text-sm md:text-xl ">
 
-        <div className='font-bebas text-2xl'>
+        <div className='font-bebas '>
            <NavLink to="/">
            <h1 className="hover:text-slate-600">Aditya Pippal</h1>
            </NavLink>

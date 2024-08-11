@@ -23,7 +23,7 @@ function Header() {
           </div>
         <div className='flex gap-2 align-center justify-center'>
           <h1 className='text-xl font-semibold'>Resume</h1> 
-          <button className='bg-slate-200 w-12 rounded-md flex justify-center align-center p-2  hover:bg-blue-300'>
+          <button className='bg-slate-200 w-12 rounded-md flex justify-center align-center p-2  hover:bg-[#8EC2CD] '>
             <a href="https://drive.google.com/file/d/1qOUvd3jlwUF8d-YOwBS_NOldmG-eTbFm/view?usp=sharing" download> 
             <img 
             className='w-6 '

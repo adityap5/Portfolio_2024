@@ -30,7 +30,7 @@ function Home() {
                             </Span>
                         </TextLoop>
                         <SubTitle>{Bio.description}</SubTitle>
-                        <button className='bg-slate-400 self-center h-12 w-24 font-semibold  text-2xl rounded-lg hover:bg-blue-300 hover:scale-105 md:w-48'
+                        <button className='bg-slate-200 self-center h-12 w-24 font-semibold  text-2xl rounded-lg hover:bg-[#8EC2CD] hover:scale-105 md:w-48'
                          ><a href="https://drive.google.com/file/d/1qOUvd3jlwUF8d-YOwBS_NOldmG-eTbFm/view?usp=sharing" download> Check Resume</a></button>
                     </HeroLeftContainer>
 

@@ -114,7 +114,7 @@ const [message, setMessage] = useState("")
     <div className='flex justify-center items-center '>
       
       <form 
-      className='flex flex-col gap-6 shadow-2xl w-2/5 mt-7 p-5 rounded-md mb-8'
+      className='flex flex-col gap-6 shadow-xl w-3/5 mt-7 p-5 rounded-lg mb-8'
       onSubmit={handleSubmit}>
       <input 
       className='text-2xl p-4 border-2 border-black rounded-lg'
@@ -126,7 +126,7 @@ const [message, setMessage] = useState("")
       className="text-lg min-h-40 p-2 border-2 border-black rounded-lg"
       cols="30" row="10" value={message} onChange={(e)=>{setMessage(e.target.value)}}> </textarea>
       <button 
-      className='bg-slate-400 self-center h-12 w-24 font-semibold  text-2xl rounded-lg hover:bg-blue-300 hover:scale-105 md:w-48'
+      className='bg-slate-200 self-center h-12 w-24 font-semibold  text-2xl rounded-lg hover:bg-[#8EC2CD]  hover:text-white hover:scale-105 md:w-48 transition ease-in-out delay-150 hover:-translate-y-1 duration-300'
       type="submit" value="Send"> Send </button> 
       </form>
     </div></>

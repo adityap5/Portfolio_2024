@@ -231,7 +231,7 @@ export const Bio = {
         "an innovative website crafted with HTML5, CSS, JavaScript, and GSAP (GreenSock Animation Platform), bringing the captivating world of Marvel Comics to life through dynamic animations and interactive features.",
       image:
         "projectphoto/GSAPMARVEL.jpg",
-      tags: ["HTNL5","CSS","JavaScript", "GSAP"],
+      tags: ["HTML5","CSS","JavaScript", "GSAP"],
       category: "web app",
       github: "https://github.com/adityap5/GSAP_MARVEL",
       webapp: "https://gsap-marvel.netlify.app/",

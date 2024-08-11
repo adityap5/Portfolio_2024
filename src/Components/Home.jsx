@@ -36,7 +36,7 @@ function Home() {
 
                     <HeroRightContainer id="Right">
 
-                        <Img src="/hero.jpg" alt="hero-image" />
+                        <Img src="/hero.jpeg" alt="hero-image" />
                     </HeroRightContainer>
                 </HeroInnerContainer>
 
